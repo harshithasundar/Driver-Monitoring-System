@@ -144,17 +144,16 @@ The live dashboard displays:
 | Visualization | OpenCV |
 
 #  Project Structure
-
+```
 AI-Driver-Monitoring-System/
 │
-├── assets/
+├── screenshots/
 │   ├── normal.png
 │   ├── drowsy.png
-│   ├── yawning.png
+│   ├── warning.png
 │   ├── critical.png
 │
 ├── data/
-│   ├── raw/
 │   └── processed/
 │
 ├── models/
@@ -175,6 +174,7 @@ AI-Driver-Monitoring-System/
 ├── main.py
 ├── requirements.txt
 └── README.md
+```
 
 #  Installation
 
