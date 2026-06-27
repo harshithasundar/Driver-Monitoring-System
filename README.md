@@ -178,27 +178,29 @@ AI-Driver-Monitoring-System/
 
 #  Installation
 
-Clone the repository
+-> Clone the repository
 
 git clone https://github.com/harshithasundar/Driver-Monitoring-System.git
 
-Navigate to the project
+-> Navigate to the project
 
 cd Driver-Monitoring-System
 
 
-Create a virtual environment
+-> Create a virtual environment
+
 python -m venv venv
 
-Activate it
+-> Activate it
 
 ### Windows
 venv\Scripts\activate
 
 ### Linux / macOS
+
 source venv/bin/activate
 
-Install dependencies
+-> Install dependencies
 
 pip install -r requirements.txt
 
@@ -248,4 +250,5 @@ The model performs real-time inference using facial landmark-derived features, e
 #  Author
 
 Harshitha Sundar
+
 B.Tech Computer Science & Engineering (Computer Networks)
