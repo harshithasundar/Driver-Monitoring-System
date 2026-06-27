@@ -180,7 +180,7 @@ AI-Driver-Monitoring-System/
 
 Clone the repository
 
-git clone https://github.com/<harshithasundar>/Driver-Monitoring-System.git
+git clone https://github.com/harshithasundar/Driver-Monitoring-System.git
 
 Navigate to the project
 
